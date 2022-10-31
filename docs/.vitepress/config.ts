@@ -1,6 +1,7 @@
 export default {
     title: "Rido's Blog",
     description: "More ",
+    base: '/vitepress-blog/',
     // cleanUrls: 'without-subfolders',
     markdown: {
         lineNumbers: true
