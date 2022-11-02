@@ -1,5 +1,6 @@
 ---
 title: "3 trik cepat menjalankan aplikasi MySQL di Command Prompt (windows)"
+description: "Ketika ingin buka aplikasi MySQL di Command Prompt, pasti yang anda lakukan kurang lebih seperti ini"
 ---
 
 # 3 trik cepat menjalankan aplikasi MySQL di Command Prompt (CMD) Windows

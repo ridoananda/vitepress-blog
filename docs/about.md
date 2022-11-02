@@ -16,6 +16,6 @@ const members = [
 ]
 </script>
 
-<!-- ## About Me -->
+### About Me
 
 <VPTeamMembers size="medium" :members="members" />
